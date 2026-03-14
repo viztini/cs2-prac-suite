@@ -1,1 +1,2 @@
-*.cfg linguist-language="Valve Data Format"
+*.cfg linguist-language=SourcePawn
+*.cfg linguist-detectable=true
